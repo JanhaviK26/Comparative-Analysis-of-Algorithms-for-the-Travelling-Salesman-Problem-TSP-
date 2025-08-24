@@ -1,9 +1,4 @@
 Title: Comparative Analysis of Algorithms for the Travelling Salesman Problem (TSP)
-Team members- 
-Srija Nallamothu (M16155365)
-Rama Krishnam Raju Alluri (M16194241)
-Yutika Agarwal ( M16501686)
-Jahnavi Kulkarni (M16453493)
 
 Abstract
 This study explores the comparative performance of four nature-inspired optimization algorithms — Ant Colony Optimization (ACO), Glowworm Swarm Optimization (GSO), Genetic Algorithm (GA), and Particle Swarm Optimization (PSO) — in solving the Traveling Salesman Problem (TSP). Through empirical evaluation across three datasets (att48, berlin52, and bier127), we investigate each algorithm’s capability in terms of solution quality, execution time, and memory consumption. Our hypothesis posits that swarm-based strategies (GSO, ACO) are better suited for larger and more complex TSP instances. Results confirm the hypothesis, albeit revealing significant trade-offs in computational cost.
